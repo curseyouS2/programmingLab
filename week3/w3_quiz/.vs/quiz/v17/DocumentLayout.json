@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|solutionrelative:quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-2\\quiz-2_sol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|solutionrelative:quiz-2\\quiz-2_sol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz-3.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-3\\quiz-3.c",
+              "RelativeDocumentMoniker": "quiz-3\\quiz-3.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-3\\quiz-3.c",
+              "RelativeToolTip": "quiz-3\\quiz-3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T01:12:39.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quiz-2_sol.cpp",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-2\\quiz-2_sol.cpp",
+              "RelativeDocumentMoniker": "quiz-2\\quiz-2_sol.cpp",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_quiz\\quiz-2\\quiz-2_sol.cpp",
+              "RelativeToolTip": "quiz-2\\quiz-2_sol.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T00:51:23.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

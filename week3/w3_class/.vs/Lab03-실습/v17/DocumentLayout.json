@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC41CB-A045-42E3-A1DD-29F0B207EEDE}|Lab3-ACM\\Lab3-ACM.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-ACM\\Lab3-acm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3DC41CB-A045-42E3-A1DD-29F0B207EEDE}|Lab3-ACM\\Lab3-ACM.vcxproj|solutionrelative:Lab3-ACM\\Lab3-acm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FC5E10-4019-4E4E-A04C-D1538B4AAE30}|Lab3-6\\Lab3-6.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-6\\Lab3-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9FC5E10-4019-4E4E-A04C-D1538B4AAE30}|Lab3-6\\Lab3-6.vcxproj|solutionrelative:Lab3-6\\Lab3-6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D167B2D-8F50-4C55-A9B4-34091D614B81}|Lab3-5\\Lab3-5.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-5\\Lab3-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D167B2D-8F50-4C55-A9B4-34091D614B81}|Lab3-5\\Lab3-5.vcxproj|solutionrelative:Lab3-5\\Lab3-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86551B85-B269-4F22-9C81-007025058783}|Lab3-3\\Lab3-3.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-3\\Lab3-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86551B85-B269-4F22-9C81-007025058783}|Lab3-3\\Lab3-3.vcxproj|solutionrelative:Lab3-3\\Lab3-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28E5D0-14D8-45A4-BDDC-4B9FB6639153}|Lab3-2\\Lab3-2.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-2\\Lab3-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C28E5D0-14D8-45A4-BDDC-4B9FB6639153}|Lab3-2\\Lab3-2.vcxproj|solutionrelative:Lab3-2\\Lab3-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7F53C8-F4CC-4D44-8042-8B63FB3C4BBB}|03\\03.vcxproj|C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\03\\Lab3-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D7F53C8-F4CC-4D44-8042-8B63FB3C4BBB}|03\\03.vcxproj|solutionrelative:03\\Lab3-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab3-acm.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-ACM\\Lab3-acm.c",
+              "RelativeDocumentMoniker": "Lab3-ACM\\Lab3-acm.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-ACM\\Lab3-acm.c",
+              "RelativeToolTip": "Lab3-ACM\\Lab3-acm.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T02:30:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3-6.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-6\\Lab3-6.c",
+              "RelativeDocumentMoniker": "Lab3-6\\Lab3-6.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-6\\Lab3-6.c",
+              "RelativeToolTip": "Lab3-6\\Lab3-6.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T02:28:42.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3-5.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-5\\Lab3-5.c",
+              "RelativeDocumentMoniker": "Lab3-5\\Lab3-5.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-5\\Lab3-5.c",
+              "RelativeToolTip": "Lab3-5\\Lab3-5.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T02:16:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab3-3.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-3\\Lab3-3.c",
+              "RelativeDocumentMoniker": "Lab3-3\\Lab3-3.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-3\\Lab3-3.c",
+              "RelativeToolTip": "Lab3-3\\Lab3-3.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T01:50:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab3-1.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\03\\Lab3-1.c",
+              "RelativeDocumentMoniker": "03\\Lab3-1.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\03\\Lab3-1.c",
+              "RelativeToolTip": "03\\Lab3-1.c",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T01:29:24.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab3-2.c",
+              "DocumentMoniker": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-2\\Lab3-2.c",
+              "RelativeDocumentMoniker": "Lab3-2\\Lab3-2.c",
+              "ToolTip": "C:\\Users\\dd\\git\\programmigLab\\week3\\w3_class\\Lab3-2\\Lab3-2.c",
+              "RelativeToolTip": "Lab3-2\\Lab3-2.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-24T01:28:57.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

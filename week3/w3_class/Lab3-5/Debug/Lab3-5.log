@@ -1,3 +1,0 @@
-﻿  Lab3-5.c
-C:\Users\dd\git\programmigLab\week3\w3_class\Lab3-5\Lab3-5.c(30,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
-  Lab3-5.vcxproj -> C:\Users\dd\git\programmigLab\week3\w3_class\Debug\Lab3-5.exe

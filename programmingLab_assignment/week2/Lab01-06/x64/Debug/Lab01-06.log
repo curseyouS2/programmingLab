@@ -1,7 +1,0 @@
-﻿  Lab01-06.c
-C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\Lab01-06\Lab01-06.c(7,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\Lab01-06\Lab01-06.c(35,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\Lab01-06\Lab01-06.c(36,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\Lab01-06\Lab01-06.c(50,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\Lab01-06\Lab01-06.c(55,9): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Lab01-06.vcxproj -> C:\Users\dd\git\programmigLab\programmingLab_assignment\week2\x64\Debug\Lab01-06.exe

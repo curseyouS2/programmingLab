@@ -1,3 +1,0 @@
-﻿  Lab01-07.c
-C:\2020-1학기\프로그래밍랩\Lab01\Lab01-07\Lab01-07.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Lab01-07.vcxproj -> C:\2020-1학기\프로그래밍랩\Lab01\Debug\Lab01-07.exe

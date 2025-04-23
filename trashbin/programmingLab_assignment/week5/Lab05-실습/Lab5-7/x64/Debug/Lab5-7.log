@@ -1,0 +1,9 @@
+﻿  Lab5-7.c
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(8,14): warning C4101: 'dice' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(8,10): warning C4101: 'r2' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(9,15): warning C4101: 'hist' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(8,6): warning C4101: 'r1' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(9,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(9,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-7\Lab5-7.c(9,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  Lab5-7.vcxproj -> D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\x64\Debug\Lab5-7.exe

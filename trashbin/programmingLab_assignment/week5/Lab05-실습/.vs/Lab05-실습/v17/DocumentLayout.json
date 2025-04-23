@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E1E928-B445-46B2-93C4-35C8A72BEE49}|Lab5-5\\Lab5-5.vcxproj|D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\Lab5-5\\Lab5-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32E1E928-B445-46B2-93C4-35C8A72BEE49}|Lab5-5\\Lab5-5.vcxproj|solutionrelative:Lab5-5\\Lab5-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB53DC05-8B32-4711-86E7-A8470CA0792A}|05\\05.vcxproj|D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\05\\Lab5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB53DC05-8B32-4711-86E7-A8470CA0792A}|05\\05.vcxproj|solutionrelative:05\\Lab5-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab5-5.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\Lab5-5\\Lab5-5.c",
+              "RelativeDocumentMoniker": "Lab5-5\\Lab5-5.c",
+              "ToolTip": "D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\Lab5-5\\Lab5-5.c",
+              "RelativeToolTip": "Lab5-5\\Lab5-5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-13T13:41:27.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab5-1.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\05\\Lab5-1.c",
+              "RelativeDocumentMoniker": "05\\Lab5-1.c",
+              "ToolTip": "D:\\git\\programmigLab\\programmingLab_assignment\\week5\\Lab05-\uC2E4\uC2B5\\05\\Lab5-1.c",
+              "RelativeToolTip": "05\\Lab5-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-13T13:25:52.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

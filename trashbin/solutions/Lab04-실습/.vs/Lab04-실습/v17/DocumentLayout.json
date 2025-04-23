@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\lab4-acm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|solutionrelative:Lab4-ACM\\lab4-acm.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|solutionrelative:Lab4-ACM\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{92664F68-1317-4220-A75D-EDAADCAECDA7}|Lab4-ACM\\Lab4-ACM.vcxproj|solutionrelative:Lab4-ACM\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E6B69-0027-46C6-A01B-20A36BA694DD}|04\\04.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\04\\Lab4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A52E6B69-0027-46C6-A01B-20A36BA694DD}|04\\04.vcxproj|solutionrelative:04\\Lab4-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFDD1205-ECD8-49F1-BCD8-91EFE11FF337}|Lab4-2\\Lab4-2.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-2\\Lab4-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EFDD1205-ECD8-49F1-BCD8-91EFE11FF337}|Lab4-2\\Lab4-2.vcxproj|solutionrelative:Lab4-2\\Lab4-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F24166-9964-497B-BFE1-48C2892C0972}|Lab4-4\\Lab4-4.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-4\\Lab4-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62F24166-9964-497B-BFE1-48C2892C0972}|Lab4-4\\Lab4-4.vcxproj|solutionrelative:Lab4-4\\Lab4-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62357A83-BBB1-4BAC-9709-BA3031E2BEB9}|Lab4-3\\Lab4-3.vcxproj|D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-3\\Lab4-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62357A83-BBB1-4BAC-9709-BA3031E2BEB9}|Lab4-3\\Lab4-3.vcxproj|solutionrelative:Lab4-3\\Lab4-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\output.txt",
+              "RelativeDocumentMoniker": "Lab4-ACM\\output.txt",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\output.txt",
+              "RelativeToolTip": "Lab4-ACM\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T05:29:06.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "input.txt",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\input.txt",
+              "RelativeDocumentMoniker": "Lab4-ACM\\input.txt",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\input.txt",
+              "RelativeToolTip": "Lab4-ACM\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-06T05:29:05.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab4-4.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-4\\Lab4-4.c",
+              "RelativeDocumentMoniker": "Lab4-4\\Lab4-4.c",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-4\\Lab4-4.c",
+              "RelativeToolTip": "Lab4-4\\Lab4-4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T11:44:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab4-3.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-3\\Lab4-3.c",
+              "RelativeDocumentMoniker": "Lab4-3\\Lab4-3.c",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-3\\Lab4-3.c",
+              "RelativeToolTip": "Lab4-3\\Lab4-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T11:44:09.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab4-2.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-2\\Lab4-2.c",
+              "RelativeDocumentMoniker": "Lab4-2\\Lab4-2.c",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-2\\Lab4-2.c",
+              "RelativeToolTip": "Lab4-2\\Lab4-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T11:44:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4-acm.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\lab4-acm.c",
+              "RelativeDocumentMoniker": "Lab4-ACM\\lab4-acm.c",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\Lab4-ACM\\lab4-acm.c",
+              "RelativeToolTip": "Lab4-ACM\\lab4-acm.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T11:44:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab4-1.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\04\\Lab4-1.c",
+              "RelativeDocumentMoniker": "04\\Lab4-1.c",
+              "ToolTip": "D:\\git\\programmigLab\\solutions\\Lab04-\uC2E4\uC2B5\\04\\Lab4-1.c",
+              "RelativeToolTip": "04\\Lab4-1.c",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T11:44:10.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

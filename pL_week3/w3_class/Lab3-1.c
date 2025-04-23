@@ -30,15 +30,15 @@ int main()
 	struct tm* tp;
 	char* weeks[] = { "일", "월", "화", "수", "목", "금", "토" }; //일요일이 0...
 
-	
-
 	now = time(NULL); //time(&now); //
 	//now = 0; //완전 초기 시간!
-	printf("now = %d\n", now);
+
 
 	//printf("ctime() : %s", ctime(&now));	//ctime=char time...
 
-	tp = localtime(&now);	//잘라줘요
+	tp = localtime(&now);	//잘라준다
+	printf("2491040 강주현\n");
+	printf("now = %d\n", now);
 	printf("%d년 %d월 %d일 %s요일 %d시 %d분 %d초\n", 
 		tp->tm_year+1900/*+1900을 해야 현재의 년도가 됨*/, 
 		tp->tm_mon+1/*1월을 0월이라고 저장해두었음...+1해줘야함*/, 

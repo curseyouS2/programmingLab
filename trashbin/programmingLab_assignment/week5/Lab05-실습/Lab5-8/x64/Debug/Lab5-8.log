@@ -1,0 +1,7 @@
+﻿  Lab5-8.c
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-8\Lab5-8.c(8,15): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-8\Lab5-8.c(8,23): warning C4101: 'ans' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-8\Lab5-8.c(8,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-8\Lab5-8.c(8,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\Lab5-8\Lab5-8.c(8,12): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  Lab5-8.vcxproj -> D:\git\programmigLab\programmingLab_assignment\week5\Lab05-실습\x64\Debug\Lab5-8.exe

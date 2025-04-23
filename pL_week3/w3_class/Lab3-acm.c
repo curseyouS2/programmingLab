@@ -9,8 +9,20 @@
 
 int find_last_x(int a, int b)
 {
-	
-	return 1;
+	int x, a_temp, b_temp;
+	//x Ã£±â
+	for (i = 1; i < b; i++) {
+		if (b < a*i= == 1) {
+			x = i;
+		}
+	}
+	a_temp = a * x - b;
+	b_temp = b * x;
+	if (b_temp % a_temp == 0) {
+		b = b_temp / a_temp;
+		a = 1;
+	}
+	return x;
 }
 void main()
 {

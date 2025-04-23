@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\programmigLab\\week5\\week5_quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|solutionrelative:quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-2\\quiz-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|solutionrelative:quiz-2\\quiz-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F28E655-805E-4CBA-979D-47E8CCDCC314}|quiz-1\\quiz-1.vcxproj|D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-1\\quiz-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F28E655-805E-4CBA-979D-47E8CCDCC314}|quiz-1\\quiz-1.vcxproj|solutionrelative:quiz-1\\quiz-1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz-3.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-3\\quiz-3.c",
+              "RelativeDocumentMoniker": "quiz-3\\quiz-3.c",
+              "ToolTip": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-3\\quiz-3.c*",
+              "RelativeToolTip": "quiz-3\\quiz-3.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T13:45:59.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quiz-2.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-2\\quiz-2.c",
+              "RelativeDocumentMoniker": "quiz-2\\quiz-2.c",
+              "ToolTip": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-2\\quiz-2.c",
+              "RelativeToolTip": "quiz-2\\quiz-2.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T13:40:46.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quiz-1.c",
+              "DocumentMoniker": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-1\\quiz-1.c",
+              "RelativeDocumentMoniker": "quiz-1\\quiz-1.c",
+              "ToolTip": "D:\\git\\programmigLab\\week5\\week5_quiz\\quiz-1\\quiz-1.c",
+              "RelativeToolTip": "quiz-1\\quiz-1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T13:19:32.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
